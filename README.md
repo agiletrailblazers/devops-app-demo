@@ -64,5 +64,3 @@ U.S. Digital Services Playbook principles were used extensively in our approach 
 [Evidence for Section E]:https://github.com/RigilCorp/RIGIL-18F-Pool2/tree/master/documents/evidence
 [Docker Hub]:https://registry.hub.docker.com/u/agiletrailblazers/pool2-18f/
 
-
-
