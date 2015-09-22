@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.rigil.fda</groupId>
-    <artifactId>rigil-18f-pool2</artifactId>
+    <groupId>com.atb.demo</groupId>
+    <artifactId>devops-app-demo</artifactId>
     <packaging>war</packaging>
     <version>1.0.0.RELEASE</version>
-    <name>Rigil 18F Pool2</name>
-    <description>Rigil 18F Prototype Pool2</description>
+    <name>DevOps-App-Demo</name>
+    <description>The DevOps Application demo</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -26,7 +26,7 @@
     </properties>
 
     <build>
-        <finalName>rigil-18f-pool2</finalName>
+        <finalName>devops-app-demo</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
